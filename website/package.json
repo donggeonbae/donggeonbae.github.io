@@ -1,0 +1,7 @@
+{
+  "name": "donggeonbae-personal-site",
+  "private": true,
+  "type": "module",
+  "scripts": {"build": "node academic.mjs", "test": "node --test", "dev": "node serve.mjs"},
+  "engines": {"node": ">=22"}
+}

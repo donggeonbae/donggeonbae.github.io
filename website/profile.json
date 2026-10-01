@@ -1,0 +1,208 @@
+{
+  "name": "Donggeon Bae",
+  "role": "Integrated M.S./Ph.D. Student",
+  "institution": "Seoul National University",
+  "laboratory": "Imaging Intelligence Laboratory",
+  "labUrl": "https://imaging.snu.ac.kr/team",
+  "aboutLead": "I'm an integrated M.S./Ph.D. student in Mechanical Engineering at Seoul National University, advised by Prof. Seung Ah Lee in the Imaging Intelligence Laboratory.",
+  "about": "My research focuses on computational imaging, computer vision, and physics-guided deep learning, with particular interests in lensless reconstruction and biomedical imaging. I develop learning-based methods that connect image-formation models with neural networks to recover visual information from unconventional imaging systems. I received my B.S. in Electrical and Electronic Engineering from Yonsei University in 2024.",
+  "interests": [
+    "Computational imaging",
+    "Computer vision",
+    "Physics-guided deep learning",
+    "Lensless reconstruction",
+    "Biomedical imaging"
+  ],
+  "personalEmail": "donggeonbae.16@gmail.com",
+  "academicEmail": "donggeonbae@snu.ac.kr",
+  "github": "https://github.com/donggeonbae",
+  "linkedin": "https://kr.linkedin.com/in/donggeon-bae-ba02133a7",
+  "portrait": "assets/profile.jpg",
+  "education": [
+    {
+      "degree": "Integrated M.S./Ph.D., Mechanical Engineering",
+      "institution": "Seoul National University",
+      "date": "2025–present",
+      "detail": "Adviser: Prof. Seung Ah Lee · Entered Fall 2025",
+      "verified": true
+    },
+    {
+      "degree": "B.S., Electrical and Electronic Engineering",
+      "institution": "Yonsei University",
+      "date": "2018–2024",
+      "source": "https://imaging.snu.ac.kr/team",
+      "verified": true
+    }
+  ],
+  "experience": [
+    {
+      "title": "Undergraduate Researcher",
+      "institution": "Optical Imaging System Laboratory, Yonsei University",
+      "date": "2020–2024",
+      "detail": "Adviser: Prof. Seung Ah Lee",
+      "verified": true
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Poster Award",
+      "venue": "Optics and Photonics Congress · Optical Society of Korea",
+      "date": "August 2023",
+      "source": "https://imaging.snu.ac.kr/home",
+      "verified": true
+    }
+  ],
+  "publications": [
+    {
+      "title": "Integrated Forward–Inverse Network for Lensless Image Reconstruction",
+      "authors": "Donggeon Bae, Jaewoo Jung, Yong Guk Kang, Kyung Lee, Taeyoung Kim, Jongho Kim, Sangjun Byun, Joonsik Park, Seung Ah Lee",
+      "date": "2026",
+      "status": "Published",
+      "venue": "Computer Vision – ECCV 2026, Part XVIII · LNCS 17018, pp. 628–645 · Springer",
+      "url": "https://doi.org/10.1007/978-3-032-37517-9_35",
+      "project": "https://iilab.io/IFIN/",
+      "code": "https://github.com/IIL-SNU/IFIN",
+      "source": "https://doi.org/10.1007/978-3-032-37517-9_35",
+      "verified": true,
+      "preprint": "https://arxiv.org/abs/2607.04608"
+    },
+    {
+      "title": "Physics-guided neural network for single-shot real-time dynamic speckle imaging",
+      "authors": "Sangjun Byun, Changyoon Yi, Donggeon Bae, Yong Guk Kang, Jongho Kim, Hojin Chang, Seung Ah Lee",
+      "date": "2026",
+      "status": "Accepted",
+      "venue": "Journal of Physics: Photonics",
+      "url": "https://doi.org/10.1088/2515-7647/ae99ba",
+      "source": "https://doi.org/10.1088/2515-7647/ae99ba",
+      "verified": true
+    },
+    {
+      "title": "Geometry-aware phase compensation for sampling-efficient angular spectrum method",
+      "authors": "Yong Guk Kang, Donggeon Bae, Jaewoo Jung, Sangjun Byun, Hyo Jun Ahn, Hojin Chang, Joonsik Park, Hyeonyong Lee, Seung Ah Lee",
+      "date": "2026",
+      "status": "Published",
+      "venue": "Optics Express 34(8), 15244–15260",
+      "url": "https://doi.org/10.1364/OE.586512",
+      "source": "https://doi.org/10.1364/OE.586512",
+      "verified": true
+    },
+    {
+      "title": "Lensless Imaging with an End-to-End Deep Neural Network",
+      "authors": "Donggeon Bae, Jaewoo Jung, Nakkyu Baek, Seung Ah Lee",
+      "date": "2020",
+      "status": "Published",
+      "venue": "IEEE ICCE-Asia, pp. 1–5",
+      "url": "https://doi.org/10.1109/ICCE-Asia49877.2020.9276865",
+      "source": "https://doi.org/10.1109/ICCE-Asia49877.2020.9276865",
+      "verified": true
+    }
+  ],
+  "presentations": [
+    {
+      "title": "Integrated Forward-Inverse Network for Lensless Image Reconstruction",
+      "date": "Sep 2026",
+      "status": "Poster",
+      "venue": "ECCV 2026 · Malmö, Sweden",
+      "url": "https://iilab.io/IFIN/",
+      "verified": true
+    },
+    {
+      "title": "Interleaved Forward–Inverse Modeling in a Physics-Guided Neural Network for Computational Image Reconstruction",
+      "date": "2026-01-17",
+      "status": "Oral",
+      "venue": "SPIE Photonics West · San Francisco · 13865-26",
+      "verified": true
+    },
+    {
+      "title": "Recurrent Attentive Reconstruction Network for Progressive Lensless Imaging",
+      "date": "2025-10-31",
+      "status": "Poster",
+      "venue": "SPIE ABC · Jeju",
+      "verified": true
+    },
+    {
+      "title": "DiffLIR: Deep Deconvolution Diffusion Network for Lensless Image Reconstruction",
+      "date": "2024-11-01",
+      "status": "Poster",
+      "venue": "ABC · Gyeongju",
+      "verified": true
+    },
+    {
+      "title": "D3Net: Lensless Reconstruction via Deep Deconvolution Diffusion Network",
+      "date": "2024-08-07",
+      "status": "Poster",
+      "venue": "CLEO-PR · Incheon",
+      "verified": true
+    },
+    {
+      "title": "Learned Spatially Varying Forward Model for Lensless Imaging",
+      "date": "2023-08-29",
+      "status": "Poster",
+      "venue": "OPC · Seogwipo",
+      "verified": true
+    },
+    {
+      "title": "Lensless Imaging with an End-to-End Deep Neural Network",
+      "date": "2020-11-02",
+      "status": "Oral",
+      "venue": "ICCE-Asia · Busan",
+      "verified": true
+    }
+  ],
+  "news": [
+    {
+      "title": "Presented IFIN at ECCV 2026 in Malmö, Sweden",
+      "date": "Sep 2026",
+      "status": "Conference",
+      "url": "https://iilab.io/IFIN/",
+      "verified": true
+    },
+    {
+      "title": "BiSNet accepted in Journal of Physics: Photonics",
+      "date": "Aug 2026",
+      "status": "Accepted",
+      "url": "https://doi.org/10.1088/2515-7647/ae99ba",
+      "verified": true
+    },
+    {
+      "title": "IFIN preprint and project released",
+      "date": "Jul 2026",
+      "status": "Research",
+      "url": "https://iilab.io/IFIN/",
+      "source": "https://arxiv.org/abs/2607.04608",
+      "verified": true
+    },
+    {
+      "title": "IFIN accepted at ECCV 2026",
+      "date": "Jun 2026",
+      "status": "Accepted",
+      "source": "https://imaging.snu.ac.kr/home",
+      "verified": true
+    },
+    {
+      "title": "GAPC-ASM published in Optics Express",
+      "date": "Apr 2026",
+      "status": "Published",
+      "url": "https://doi.org/10.1364/OE.586512",
+      "source": "https://doi.org/10.1364/OE.586512",
+      "verified": true
+    },
+    {
+      "title": "Oral presentation at SPIE Photonics West",
+      "date": "Jan 2026",
+      "status": "Conference",
+      "verified": true
+    }
+  ],
+  "cvPdf": "assets/donggeon-bae-cv.pdf",
+  "updated": "2026-10-01",
+  "teaching": [
+    {
+      "title": "Teaching Assistant, Engineering Research Practice I & II (UROP)",
+      "institution": "Seoul National University",
+      "date": "Spring 2026",
+      "detail": "Coordinated course orientations and recorded materials; guided report submissions and supported course administration.",
+      "verified": true
+    }
+  ]
+}
