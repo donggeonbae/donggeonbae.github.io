@@ -25,3 +25,4 @@ form{margin-top:45px;max-width:760px}label{display:block;font-size:13px;color:va
 .journal-search{display:block;font-size:12px;margin-top:50px;max-width:400px}.journal-search input{display:block;width:100%;margin-top:12px;padding:15px;background:var(--surface);border:1px solid var(--line);color:var(--ink);font:inherit}.journal-tags,#journal-results{font-size:12px;color:var(--muted)}@media(pointer:coarse){}.about-grid{grid-template-columns:1fr}@media(max-width:650px){}
 
 .about-grid{grid-template-columns:minmax(0,1fr) 136px;gap:42px}.portrait{width:136px;height:136px;border:0}.portrait img{object-fit:contain;filter:none}.academic-hero .hero-type{min-height:580px}@media(max-width:650px){.about-grid{grid-template-columns:1fr}.portrait{grid-row:1;width:100px;height:100px;margin-bottom:4px}.academic-hero .hero-type{min-height:340px}}
+.cv-teaching-heading{font-size:18px;font-weight:500;letter-spacing:-.025em;margin:36px 0 18px}.teaching-list p{overflow-wrap:anywhere}
