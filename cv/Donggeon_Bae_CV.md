@@ -23,6 +23,8 @@ Computational imaging; Computer vision; Physics-guided deep learning; Lensless r
 ## Teaching & service
 
 - Teaching Assistant, Engineering Research Practice I & II (UROP), Seoul National University, Spring 2026. Coordinated course orientations and recorded materials; guided report submissions and supported course administration.
+- Teaching Assistant, 광학이론및설계, Seoul National University, Fall 2025
+- Teaching Assistant, 기초디지털실험, Yonsei University, Fall 2024
 
 ## Publications
 
