@@ -1,0 +1,19 @@
+name: Verify academic homepage
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm --prefix website test
+      - run: npm --prefix website run build
+      - run: node website/verify-root.mjs
