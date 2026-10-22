@@ -3,7 +3,7 @@
   "role": "Integrated M.S./Ph.D. Student",
   "institution": "Seoul National University",
   "laboratory": "Imaging Intelligence Laboratory",
-  "labUrl": "https://imaging.snu.ac.kr/team",
+  "labUrl": "https://iilab.io/",
   "aboutLead": "I'm an integrated M.S./Ph.D. student in Mechanical Engineering at Seoul National University, advised by Prof. Seung Ah Lee in the Imaging Intelligence Laboratory.",
   "about": "My research focuses on computational imaging, computer vision, and physics-guided deep learning, with particular interests in lensless reconstruction and biomedical imaging. I develop learning-based methods that connect image-formation models with neural networks to recover visual information from unconventional imaging systems. I received my B.S. in Electrical and Electronic Engineering from Yonsei University in 2024.",
   "interests": [
@@ -30,7 +30,7 @@
       "degree": "B.S., Electrical and Electronic Engineering",
       "institution": "Yonsei University",
       "date": "2018–2024",
-      "source": "https://imaging.snu.ac.kr/team",
+      "source": "https://iilab.io/",
       "verified": true
     }
   ],
@@ -48,7 +48,7 @@
       "title": "Best Poster Award",
       "venue": "Optics and Photonics Congress · Optical Society of Korea",
       "date": "August 2023",
-      "source": "https://imaging.snu.ac.kr/home",
+      "source": "https://iilab.io/",
       "verified": true
     }
   ],
@@ -176,7 +176,7 @@
       "title": "IFIN accepted at ECCV 2026",
       "date": "Jun 2026",
       "status": "Accepted",
-      "source": "https://imaging.snu.ac.kr/home",
+      "source": "https://iilab.io/",
       "verified": true
     },
     {
