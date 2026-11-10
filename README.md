@@ -13,7 +13,7 @@ npm run build
 npm run dev
 ```
 
-Public content lives in `profile.json`; `verified=true` is required for publication/presentation/news records, and any source links must be public HTTPS URLs. Conference acceptance and published papers are labeled separately. The 200×200 LinkedIn photo is displayed at a small size.
+Public content lives in `profile.json`; `verified=true` is required for publication/presentation/news records, and any source links must be public HTTPS URLs. Conference acceptance and published papers are labeled separately. The About portrait uses two locally served JPEGs from the supplied photos. Hover to show the alternate photo; touch or keyboard activation toggles it. Both photos are displayed up to 260 pixels wide, with additional room to the right. The displayed frame trims 30 pixels from the top and 70 from the bottom; the source JPEGs remain uncropped.
 
 ## Pages publishing
 
@@ -24,3 +24,5 @@ The current CV is `assets/donggeon-bae-cv.pdf`; the legacy `CV_BDG.pdf` URL rece
 Canonical URL: https://d-bae.com/. GitHub Pages serves the site with a custom domain and enforced HTTPS.
 
 Journal publishing instructions: journal/README.md. The hero uses intentional negative space. The original portrait appears in About. Brief section reveals respect reduced-motion preferences; no particle renderer or continuous animation runs.
+
+The public d-bae.com domain currently uses a pinned Cloudflare Pages deployment via `d-bae-site-router`. A GitHub push alone does not update that origin. Publish the generated site to Cloudflare Pages and update only `PAGES_ORIGIN` and the allowlist for new homepage assets; preserve `NAMOFOOD_ORIGIN` and fallback routing.
